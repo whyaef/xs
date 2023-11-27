@@ -8,7 +8,7 @@
         <protocol>https</protocol>
         <host>markus.rmart.ru</host>
         <port>443</port>
-        <path>/engine/preloader/preloader_181.swf</path>
+        <path>/engine/preloader/preloader_183.swf</path>
       </sourceLocation>
       <dest>C:\w\preloader.swf</dest>
       <enabled>true</enabled>
@@ -19,9 +19,9 @@
         <protocol>https</protocol>
         <host>ssl.rmart.ru</host>
         <port>443</port>
-        <path>/engine/1.57.7/Wormix.swf</path>
+        <path>/engine/1.57.7/Wormix01.swf</path>
       </sourceLocation>
-      <dest>C:\w\Wormix.swf</dest>
+      <dest>C:\w\Wormix01.swf</dest>
       <enabled>true</enabled>
       <caseSensitive>true</caseSensitive>
     </mapLocalMapping>
@@ -45,6 +45,28 @@
       </sourceLocation>
       <dest>C:\w\kuz.swf</dest>
       <enabled>true</enabled>
+      <caseSensitive>true</caseSensitive>
+    </mapLocalMapping>
+    <mapLocalMapping>
+      <sourceLocation>
+        <protocol>https</protocol>
+        <host>ssl.rmart.ru</host>
+        <port>443</port>
+        <path>/engine/storage/levels/archbot/map.swf</path>
+      </sourceLocation>
+      <dest>C:\w\archbot.swf</dest>
+      <enabled>false</enabled>
+      <caseSensitive>true</caseSensitive>
+    </mapLocalMapping>
+    <mapLocalMapping>
+      <sourceLocation>
+        <protocol>https</protocol>
+        <host>ssl.rmart.ru</host>
+        <port>443</port>
+        <path>/engine/storage/levels/graveyard/map.swf</path>
+      </sourceLocation>
+      <dest>C:\w\zhrec.swf</dest>
+      <enabled>false</enabled>
       <caseSensitive>true</caseSensitive>
     </mapLocalMapping>
     <mapLocalMapping>
@@ -272,9 +294,20 @@
         <protocol>https</protocol>
         <host>ssl.rmart.ru</host>
         <port>443</port>
-        <path>/engine/storage/levels/archbot/map.swf</path>
+        <path>/engine/storage/levels/twinpeaks/map.swf</path>
       </sourceLocation>
-      <dest>C:\w\archbot.swf</dest>
+      <dest>C:\Users\user\Desktop\2 пика.swf</dest>
+      <enabled>false</enabled>
+      <caseSensitive>true</caseSensitive>
+    </mapLocalMapping>
+    <mapLocalMapping>
+      <sourceLocation>
+        <protocol>https</protocol>
+        <host>ssl.rmart.ru</host>
+        <port>443</port>
+        <path>/engine/storage/levels/forest_hut/map1.swf</path>
+      </sourceLocation>
+      <dest>C:\Users\user\Desktop\map.swf</dest>
       <enabled>false</enabled>
       <caseSensitive>true</caseSensitive>
     </mapLocalMapping>
